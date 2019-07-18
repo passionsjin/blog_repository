@@ -1,0 +1,11 @@
+## 해야할것
+- openstack neutron에 대해 이해하기
+- Istio에 대해 정리해보기
+- canary 배포란?
+- multi cluster를 운영 및 관리하기 위한 기법들?
+- argo CD란?
+- kubernetes가 어떻게 동작하는지는 알자...
+- app에서 로그 dashboard같은곳으로 등록가능함.
+- flink란?
+- aws kops ???
+- eks가 서울리전엔 없었냐??
