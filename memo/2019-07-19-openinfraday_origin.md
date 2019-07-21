@@ -30,14 +30,14 @@
  ## knative 기본
  - 장점 : 코드만 있으면 그 외 필요한게 없음
  - 단점 : 테스트가 까다로움. 로컬테스트,,,???
- ### use cases on cloud functions
+ ### use cases on cloud functions4
  - http backend api
  - cronjob
  - cloud event trigger ( vm의crud )
  ### knative
  - kubernetes-based platform to build, deploy, and manage modern serverless workloads
  - serverless function app을 만들수있는건가??
- - CRD
+ - CRD가 무엇?
  - 동시접속자보다는 CPU자원에 따른 scaling
  
  ## k8s 에서의 데이터베이스 운영?
